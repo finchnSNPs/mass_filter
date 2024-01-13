@@ -19,5 +19,7 @@ Works well with Mac and Linux. Options to run in Windows are install a Linux dis
 #### Using Example Data
 
 ```
-./mass_filter.sh exmaple_data/ 100 200 filtered_data/ 
+./mass_filter.sh example_data/ 100 200 filtered_data/ 
 ```
+
+Mass ratios ≥100 and ≤200 will be removed in the output files. Output files are located in a directory called "filtered_data." Original files are not untouched.
