@@ -19,5 +19,5 @@ Works well with Mac and Linux. Options to run in Windows are install a Linux dis
 #### Using Example Data
 
 ```
-./mass_filter.sh exmaple_data/ 100 200 filtered_data 
+./mass_filter.sh exmaple_data/ 100 200 filtered_data/ 
 ```
